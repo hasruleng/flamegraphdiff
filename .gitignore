@@ -54,3 +54,6 @@ docs/_build/
 
 # output dir
 output/
+
+# WSL stuff
+*.Identifier

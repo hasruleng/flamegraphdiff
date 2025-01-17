@@ -178,9 +178,17 @@
 <text text-anchor="middle" x="600.00" y="24" font-size="17" font-family="Verdana" fill="rgb(0,0,0)"  >Flame Graph</text>
 <text text-anchor="" x="10.00" y="113" font-size="12" font-family="Verdana" fill="rgb(0,0,0)" id="details" > </text>
 <text text-anchor="" x="10.00" y="24" font-size="12" font-family="Verdana" fill="rgb(0,0,0)" id="unzoom" onclick="unzoom()" style="opacity:0.0;cursor:pointer" >Reset Zoom</text>
+<g id="9eecb7db59d16c80417c72d1e1f4fbf1" class="func_g" onmouseover="s('all (4,509 samples, 100%)','9eecb7db59d16c80417c72d1e1f4fbf1')" onmouseout="c('9eecb7db59d16c80417c72d1e1f4fbf1')" onclick="zoom(this)">
+<title>all (4,509 samples, 100%)</title><rect x="10.0" y="81" width="1180.0" height="15.0" fill="rgb(255,255,255)" rx="2" ry="2" />
+<text text-anchor="" x="13.00" y="91.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
+</g>
 <g id="d064750b441252461255ce23af0671a0" class="func_g" onmouseover="s('main (210 samples, 4.66%; 0.00%)','d064750b441252461255ce23af0671a0')" onmouseout="c('d064750b441252461255ce23af0671a0')" onclick="zoom(this)">
 <title>main (210 samples, 4.66%; 0.00%)</title><rect x="10.0" y="65" width="55.0" height="15.0" fill="rgb(255,255,255)" rx="2" ry="2" />
 <text text-anchor="" x="13.00" y="75.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >main</text>
+</g>
+<g id="1905da95023f19c06e5051838dcca2cb" class="func_g" onmouseover="s('setlocale (210 samples, 4.66%; 0.00%)','1905da95023f19c06e5051838dcca2cb')" onmouseout="c('1905da95023f19c06e5051838dcca2cb')" onclick="zoom(this)">
+<title>setlocale (210 samples, 4.66%; 0.00%)</title><rect x="10.0" y="49" width="55.0" height="15.0" fill="rgb(255,255,255)" rx="2" ry="2" />
+<text text-anchor="" x="13.00" y="59.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >setlo..</text>
 </g>
 <g id="3bc8fc36830113d44fa715b7c9dc92ad" class="func_g" onmouseover="s('_nl_find_locale (210 samples, 4.66%; +4.44%)','3bc8fc36830113d44fa715b7c9dc92ad')" onmouseout="c('3bc8fc36830113d44fa715b7c9dc92ad')" onclick="zoom(this)">
 <title>_nl_find_locale (210 samples, 4.66%; +4.44%)</title><rect x="10.0" y="33" width="55.0" height="15.0" fill="rgb(255,189,189)" rx="2" ry="2" />
@@ -189,13 +197,5 @@
 <g id="9269088eef8de1933bac938a1d0a9d65" class="func_g" onmouseover="s('md5_process (4,299 samples, 95.34%; +44.36%)','9269088eef8de1933bac938a1d0a9d65')" onmouseout="c('9269088eef8de1933bac938a1d0a9d65')" onclick="zoom(this)">
 <title>md5_process (4,299 samples, 95.34%; +44.36%)</title><rect x="65.0" y="65" width="1125.0" height="15.0" fill="rgb(255,0,0)" rx="2" ry="2" />
 <text text-anchor="" x="67.96" y="75.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >md5_process</text>
-</g>
-<g id="1905da95023f19c06e5051838dcca2cb" class="func_g" onmouseover="s('setlocale (210 samples, 4.66%; 0.00%)','1905da95023f19c06e5051838dcca2cb')" onmouseout="c('1905da95023f19c06e5051838dcca2cb')" onclick="zoom(this)">
-<title>setlocale (210 samples, 4.66%; 0.00%)</title><rect x="10.0" y="49" width="55.0" height="15.0" fill="rgb(255,255,255)" rx="2" ry="2" />
-<text text-anchor="" x="13.00" y="59.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  >setlo..</text>
-</g>
-<g id="9eecb7db59d16c80417c72d1e1f4fbf1" class="func_g" onmouseover="s('all (4,509 samples, 100%)','9eecb7db59d16c80417c72d1e1f4fbf1')" onmouseout="c('9eecb7db59d16c80417c72d1e1f4fbf1')" onclick="zoom(this)">
-<title>all (4,509 samples, 100%)</title><rect x="10.0" y="81" width="1180.0" height="15.0" fill="rgb(255,255,255)" rx="2" ry="2" />
-<text text-anchor="" x="13.00" y="91.5" font-size="12" font-family="Verdana" fill="rgb(0,0,0)"  ></text>
 </g>
 </svg>
